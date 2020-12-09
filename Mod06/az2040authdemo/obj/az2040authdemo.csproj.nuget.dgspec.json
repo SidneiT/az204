@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\sidne\\Documents\\DevSpace\\az204\\Mod06\\az2040authdemo\\az2040authdemo.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\sidne\\Documents\\DevSpace\\az204\\Mod06\\az2040authdemo\\az2040authdemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\sidne\\Documents\\DevSpace\\az204\\Mod06\\az2040authdemo\\az2040authdemo.csproj",
+        "projectName": "az2040authdemo",
+        "projectPath": "D:\\Users\\sidne\\Documents\\DevSpace\\az204\\Mod06\\az2040authdemo\\az2040authdemo.csproj",
+        "packagesPath": "C:\\Users\\sidne\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sidne\\Documents\\DevSpace\\az204\\Mod06\\az2040authdemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sidne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

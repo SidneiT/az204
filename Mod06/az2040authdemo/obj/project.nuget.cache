@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4b96OspNYrqzD+iOfRNuU0fSPrqrAW6qHeyECOlMzuhzaY9SMp1kD9Uko/wbuIileBpSqTIWCkcmamWJk1OZ1g==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\sidne\\Documents\\DevSpace\\az204\\Mod06\\az2040authdemo\\az2040authdemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sidne\\.nuget\\packages\\microsoft.identity.client\\4.22.0\\microsoft.identity.client.4.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
